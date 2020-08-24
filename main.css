@@ -1,4 +1,9 @@
 h2 {
   color: rebeccapurple;
   font-family: fantasy;
+  background: black;
+  padding: 20px;
+  border-style: solid;
+  border-width: 5px;
+  margin: 10px;
 }
